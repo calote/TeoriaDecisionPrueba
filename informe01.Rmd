@@ -1,6 +1,6 @@
 ---
 title: "Mi análisis"
-author: "Profesor"
+author: "Pedro Luque"
 date: '2022-09-14'
 output: html_document
 ---
